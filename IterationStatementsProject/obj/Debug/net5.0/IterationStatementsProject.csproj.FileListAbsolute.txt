@@ -1,0 +1,16 @@
+C:\repos\IterationStatementsProject\IterationStatementsProject\bin\Debug\net5.0\IterationStatementsProject.exe
+C:\repos\IterationStatementsProject\IterationStatementsProject\bin\Debug\net5.0\IterationStatementsProject.deps.json
+C:\repos\IterationStatementsProject\IterationStatementsProject\bin\Debug\net5.0\IterationStatementsProject.runtimeconfig.json
+C:\repos\IterationStatementsProject\IterationStatementsProject\bin\Debug\net5.0\IterationStatementsProject.runtimeconfig.dev.json
+C:\repos\IterationStatementsProject\IterationStatementsProject\bin\Debug\net5.0\IterationStatementsProject.dll
+C:\repos\IterationStatementsProject\IterationStatementsProject\bin\Debug\net5.0\IterationStatementsProject.pdb
+C:\repos\IterationStatementsProject\IterationStatementsProject\obj\Debug\net5.0\IterationStatementsProject.csproj.AssemblyReference.cache
+C:\repos\IterationStatementsProject\IterationStatementsProject\obj\Debug\net5.0\IterationStatementsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IterationStatementsProject\IterationStatementsProject\obj\Debug\net5.0\IterationStatementsProject.AssemblyInfoInputs.cache
+C:\repos\IterationStatementsProject\IterationStatementsProject\obj\Debug\net5.0\IterationStatementsProject.AssemblyInfo.cs
+C:\repos\IterationStatementsProject\IterationStatementsProject\obj\Debug\net5.0\IterationStatementsProject.csproj.CoreCompileInputs.cache
+C:\repos\IterationStatementsProject\IterationStatementsProject\obj\Debug\net5.0\IterationStatementsProject.dll
+C:\repos\IterationStatementsProject\IterationStatementsProject\obj\Debug\net5.0\refint\IterationStatementsProject.dll
+C:\repos\IterationStatementsProject\IterationStatementsProject\obj\Debug\net5.0\IterationStatementsProject.pdb
+C:\repos\IterationStatementsProject\IterationStatementsProject\obj\Debug\net5.0\IterationStatementsProject.genruntimeconfig.cache
+C:\repos\IterationStatementsProject\IterationStatementsProject\obj\Debug\net5.0\ref\IterationStatementsProject.dll
